@@ -9,7 +9,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![ScriptByAI](https://img.shields.io/badge/curated%20by-ScriptByAI-0f172a)](https://www.scriptbyai.com/)
 
-A directory of 373 Agent Skills and related tools for Claude Code, Codex, OpenClaw, Hermes Agent, and other compatible AI agents.
+A directory of 385 Agent Skills and related tools for Claude Code, Codex, OpenClaw, Hermes Agent, and other compatible AI agents.
 
 Most entries come from popular public GitHub repositories and are grouped by developer workflow. Stars show public attention, not safety; review scripts, permissions, compatibility, and maintenance before installing any skill.
 
@@ -625,6 +625,10 @@ Check the skill structure, installation steps, scripts, hooks, dependencies, per
 
 ## Changelog
 
+### July 28, 2026
+
+- Added 12 skills and related tools across UI, writing, research, visual, marketing, industry, framework, and workflow categories, bringing the directory to 385 listed items.
+
 ### July 21, 2026
 
 - Added 5 skills and related tools across collection, UI, writing, productivity, and marketing categories, bringing the directory to 373 listed items.
@@ -649,7 +653,7 @@ Check the skill structure, installation steps, scripts, hooks, dependencies, per
 
 ### June 23, 2026
 
-- Added new Agent Skills and related tools, bringing the directory to 385 listed items.
+- Added new Agent Skills and related tools, bringing the directory to 240 listed items.
 
 ### June 21, 2026
 
