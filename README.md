@@ -9,7 +9,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![ScriptByAI](https://img.shields.io/badge/curated%20by-ScriptByAI-0f172a)](https://www.scriptbyai.com/)
 
-A directory of 385 Agent Skills and related tools for Claude Code, Codex, OpenClaw, Hermes Agent, and other compatible AI agents.
+A directory of 397 Agent Skills and related tools for Claude Code, Codex, OpenClaw, Hermes Agent, and other compatible AI agents.
 
 Most entries come from popular public GitHub repositories and are grouped by developer workflow. Stars show public attention, not safety; review scripts, permissions, compatibility, and maintenance before installing any skill.
 
@@ -159,6 +159,7 @@ This group is about layout judgment, interface polish, interaction quality, and 
 - [emilkowalski/skills](https://github.com/emilkowalski/skills) | ⭐ 2.6k - Design-focused Claude Code skills for frontend work, animation, and product interface polish.
 - [make-interfaces-feel-better](https://github.com/jakubkrehel/make-interfaces-feel-better) | ⭐ 2k - Interface-detail skill based on practical UI refinements for interaction feel, layout, and polish.
 - [designer-skills](https://github.com/Owl-Listener/designer-skills) | ⭐ 1.6k - Design-agent skills for stronger UI judgment, visual direction, and product design output.
+- [oil-motion](https://github.com/oil-oil/oil-motion) | ⭐ 1.6k - Interactive web-animation skill for designing motion, preparing animation assets, and wiring scroll, pointer, drag, touch, or device-orientation controls.
 - [awesome-design-skills](https://github.com/bergside/awesome-design-skills) | ⭐ 1.3k - Curated design skill files for agentic design tools, Codex, Cursor, Claude Design, and related AI tools.
 - [material-3-skill](https://github.com/hamen/material-3-skill) | ⭐ 1k - Material Design 3 skill for components, design tokens, theming, responsive layout, and compliance review.
 - [jakubkrehel/skills](https://github.com/jakubkrehel/skills) | ⭐ 942 - Agent skills for interface animation, polish, accessibility, and product writing.
@@ -233,6 +234,7 @@ Security projects focus on vulnerability analysis, threat modeling, offensive an
 Writing projects shape code, research, and rough notes into technical docs, long-form content, translations, course material, or more natural prose.
 
 - [humanizer](https://github.com/blader/humanizer) | ⭐ 23.7k - A Claude Code skill that removes signs of AI-generated writing from text, making it sound more natural and human.
+- [watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | ⭐ 15.8k - Agent skill and local Python service for cleaning invisible text markers and C2PA or file metadata from content you own.
 - [stop-slop](https://github.com/hardikpandya/stop-slop) | ⭐ 10k - A skill file for removing AI tells from prose.
 - [codebase-to-course](https://github.com/zarazhangrui/codebase-to-course) | ⭐ 4.6k - A Claude Code skill for converting a codebase into an interactive single-page HTML course for non-technical vibe coders.
 - [Research-Paper-Writing-Skills](https://github.com/Master-cai/Research-Paper-Writing-Skills) | ⭐ 3.7k - Skill package for ML/CV/NLP paper writing, curated and adapted from Prof. Peng Sida's open notes for Codex, Claude Code, and Gemini.
@@ -388,6 +390,7 @@ Marketing projects deal with ads, campaign analysis, marketing review, and conte
 - [affiliate-skills](https://github.com/Affitor/affiliate-skills) | ⭐ 495 - Affiliate marketing skill pack for research, content planning, infographics, landing pages, deployment, and social intelligence.
 - [newsjack](https://github.com/elvisun/newsjack) | ⭐ 495 - Open-source PR skills for turning news moments into press angles, pitches, and campaign assets.
 - [openclaw-marketing-skills](https://github.com/davidpc007/openclaw-marketing-skills) | ⭐ 156 - OpenClaw marketing skills for CRO, copywriting, SEO, paid ads, growth, and GTM.
+- [Proven-Viral-Content-System](https://github.com/swaroop2004/Proven-Viral-Content-System) | ⭐ 73 - Skills for researching, brainstorming, and generating viral video content for Instagram, YouTube, X, and TikTok.
 
 ## Industry Skills
 
@@ -463,6 +466,7 @@ Platform projects are tied to products, ecosystems, devices, and runtimes with t
 - [obsidian-skills](https://github.com/kepano/obsidian-skills) | ⭐ 35.3k - Claude Skills for use with Obsidian.
 - [hyperframes](https://github.com/heygen-com/hyperframes) | ⭐ 26.8k - Write HTML. Render video. Built for agents.
 - [Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | ⭐ 21.4k - A Claude Code game-dev studio setup with 49 AI agents, 72 workflow skills, and a coordination model based on studio roles.
+- [notebooklm-py](https://github.com/teng-lin/notebooklm-py) | ⭐ 18.8k - Unofficial Python API and agentic skill for Google NotebookLM, with CLI and MCP support.
 - [huggingface/skills](https://github.com/huggingface/skills) | ⭐ 10.7k - Hugging Face ecosystem skills for AI agents.
 - [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | ⭐ 7k - Claude Code skill for direct communication with Google NotebookLM notebooks.
 - [android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) | ⭐ 6k - Claude Code skill for Android app reverse engineering.
@@ -557,6 +561,7 @@ Skill-builder projects create, install, manage, share, sync, and refine skills a
 
 Plugin skill packs collect skills alongside Claude Code plugins, hooks, commands, agents, or MCP components.
 
+- [notfair-plugin](https://github.com/nowork-studio/notfair-plugin) | ⭐ 3.4k - Open-source plugin pack with SEO, GEO, Google Ads, Meta Ads, and marketing skills for AI agents.
 - [claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) | ⭐ 2.4k - 270+ Claude Code plugins with 739 agent skills.
 
 ## Agent Skills vs MCP Servers
@@ -631,6 +636,10 @@ No. Star count is a popularity signal, not a safety guarantee. Review the skill�
 Check the skill structure, installation steps, scripts, hooks, dependencies, permissions, agent runtime, and repository activity. Test in a disposable project before granting access to important code or credentials.
 
 ## Changelog
+
+### August 20, 2026
+
+- Added 5 skills and related tools across UI, writing, marketing, platform, and plugin categories, bringing the directory to 397 listed items.
 
 ### August 9, 2026
 
