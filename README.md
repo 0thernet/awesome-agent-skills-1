@@ -9,7 +9,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![ScriptByAI](https://img.shields.io/badge/curated%20by-ScriptByAI-0f172a)](https://www.scriptbyai.com/)
 
-A directory of 397 Agent Skills and related tools for Claude Code, Codex, OpenClaw, Hermes Agent, and other compatible AI agents.
+A directory of 406 Agent Skills and related tools for Claude Code, Codex, OpenClaw, Hermes Agent, and other compatible AI agents.
 
 Most entries come from popular public GitHub repositories and are grouped by developer workflow. Stars show public attention, not safety; review scripts, permissions, compatibility, and maintenance before installing any skill.
 
@@ -171,6 +171,7 @@ This group is about layout judgment, interface polish, interaction quality, and 
 - [motion-design-skill](https://github.com/LottieFiles/motion-design-skill) | ⭐ 529 - LottieFiles motion design skill for timing, easing, choreography, and UI animation judgment.
 - [skill.color-expert](https://github.com/meodai/skill.color-expert) | ⭐ 505 - Color science skill for agents working with color spaces, accessibility contrast, palettes, pigment mixing, and historical color theory.
 - [lazyweb-skill](https://github.com/aboul3ata/lazyweb-skill) | ⭐ 418 - UI research skills and screenshot references for interface design and critique.
+- [scroll-craft](https://github.com/nateherkai/scroll-craft) | ⭐ 253 - Claude Code skill for premium scroll-driven websites, with design guidance and screenshot-based verification.
 
 ## Code Review Skills
 
@@ -203,6 +204,7 @@ Browser automation projects open pages, inspect state, run Playwright or Chrome,
 - [chrome-cdp-skill](https://github.com/pasky/chrome-cdp-skill) | ⭐ 3.1k - Live Chrome session access for AI agents, with direct connection to open tabs.
 - [playwright-skill](https://github.com/lackeyjb/playwright-skill) | ⭐ 2.8k - Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation.
 - [Apify Agent Skills](https://github.com/apify/agent-skills) | ⭐ 2.1k - Production-grade web scraping and automation skills for AI coding agents.
+- [BrowserSkill](https://github.com/Tencent/BrowserSkill) | ⭐ 1.3k - CLI and browser extension that let AI agents automate a real, logged-in browser without interrupting your work.
 - [autocli-skill](https://github.com/nashsu/autocli-skill) | ⭐ 872 - Browser-session automation skill for fetching real-time web data from social, video, publishing, and knowledge platforms without separate API keys.
 
 ## Security Review Skills
@@ -240,6 +242,7 @@ Writing projects shape code, research, and rough notes into technical docs, long
 - [Research-Paper-Writing-Skills](https://github.com/Master-cai/Research-Paper-Writing-Skills) | ⭐ 3.7k - Skill package for ML/CV/NLP paper writing, curated and adapted from Prof. Peng Sida's open notes for Codex, Claude Code, and Gemini.
 - [SimpleEnglish](https://github.com/AminBlg/SimpleEnglish) | ⭐ 2k - Agent skill for writing technical documentation in ASD-STE100 Simplified Technical English across Codex, Claude Code, Cursor, and other compatible tools.
 - [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) | ⭐ 1.9k - Writing skill for removing generic AI prose patterns and making technical content read more naturally.
+- [asd-ste100-skill](https://github.com/danyuchn/asd-ste100-skill) | ⭐ 1.4k - Claude Code skill for rewriting dense or ambiguous agent-facing English in ASD-STE100 Simplified Technical English.
 - [tutor-skills](https://github.com/bevibing/tutor-skills) | ⭐ 974 - Claude Code skill that turns PDFs, documents, and codebases into Obsidian study vaults.
 - [academic-paper-skills](https://github.com/lishix520/academic-paper-skills) | ⭐ 932 - Academic paper planning and writing framework for Claude Code, with strategist and composer skills plus quality checkpoints.
 - [x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill) | ⭐ 798 - Claude Code skill for publishing Markdown articles to X (Twitter) Articles.
@@ -283,6 +286,7 @@ Research projects gather, compare, and synthesize information before writing, co
 
 Reasoning projects give agents structured mental models, dialectic debate, and decision checks for hard problems.
 
+- [unlazy](https://github.com/Leonxlnx/unlazy) | ⭐ 1.2k - Anti-laziness skill for AI agents using Depth Tree planning, completion gates, and runnable checks.
 - [cc-thinking-skills](https://github.com/tjboudreaux/cc-thinking-skills) | ⭐ 572 - Mental models and critical-thinking frameworks for Claude Code, including first principles, Bayesian reasoning, systems thinking, OODA, and pre-mortems.
 - [hegelian-dialectic-skill](https://github.com/KyleAMathews/hegelian-dialectic-skill) | ⭐ 557 - Dialectic reasoning skill that uses committed opposing positions and synthesis rounds to examine hard decisions, strategies, and ideas.
 
@@ -317,6 +321,7 @@ Visual projects create architecture diagrams, slides, SVGs, Excalidraw boards, a
 - [text-to-cad](https://github.com/earthtojake/text-to-cad) | ⭐ 6.1k - An open source harness for generating CAD models.
 - [html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) | ⭐ 5.9k - HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations.
 - [architecture-diagram-generator](https://github.com/Cocoon-AI/architecture-diagram-generator) | ⭐ 5.8k - Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG files.
+- [ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill) | ⭐ 3.8k - Agent skill for generating simple, rounded IP mascot logos with constrained shapes, colors, and composition.
 - [excalidraw-diagram-skill](https://github.com/coleam00/excalidraw-diagram-skill) | ⭐ 3.7k - Excalidraw diagram generation for Claude Code and other coding agents.
 - [Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) | ⭐ 3.5k - Multi-modal Generative Media Skills for AI Agents (Claude Code, Cursor, Gemini CLI).
 - [guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill) | ⭐ 3.3k - Claude Code / Codex skill for Xiaohongshu carousels and WeChat 21:9 + 1:1 artwork pairs.
@@ -398,6 +403,7 @@ Industry projects package domain rules for professional fields where generic cod
 
 - [automotive-skills-suite](https://github.com/jherrodthomas/automotive-skills-suite) | ⭐ 1.6k - Automotive skill suite for dealership, service, parts, sales, and vehicle-domain workflows.
 - [ai-legal-claude](https://github.com/zubair-trabzada/ai-legal-claude) | ⭐ 1.5k - Legal analysis and document-review skill system for Claude Code and AI agents.
+- [investorskills](https://github.com/questflowai/investorskills) | ⭐ 1.5k - Structured investing judgment skills based on how investors filter opportunities, size risk, and act under uncertainty.
 - [internet-court-skill](https://github.com/internet-court/internet-court-skill) | ⭐ 1.4k - Agent skill for agent-to-agent commerce, delegated permissions, payments, escrow, and dispute resolution.
 - [medical-research-skills](https://github.com/aipoch/medical-research-skills) | ⭐ 1.2k - Medical research skills for protocol design, data analysis, evidence review, and academic writing.
 - [ClawBio](https://github.com/ClawBio/ClawBio) | ⭐ 993 - Bioinformatics-native agent skill library for local-first and reproducible research workflows.
@@ -512,9 +518,11 @@ Workflow projects coordinate agents, route work, preserve context, and connect c
 - [omnigent](https://github.com/omnigent-ai/omnigent) | ⭐ 1.5k - Common control layer for Claude Code, Codex, Pi, and custom agents, with harness swapping, policies, sandboxing, and real-time collaboration.
 - [comet](https://github.com/rpamis/comet) | ⭐ 1.5k - Agent workflow tool for phase-gated planning, execution, checks, and repeatable coding sessions.
 - [skill-codex](https://github.com/skills-directory/skill-codex) | ⭐ 1.3k - A claude code skill to delegate prompts to codex.
+- [icm-architect](https://github.com/RinDig/icm-architect) | ⭐ 1.2k - Claude skill for designing processes and ideas as ICM workspaces, or restructuring existing folders into agent-readable architectures.
 - [AIS-OS](https://github.com/nateherkai/AIS-OS) | ⭐ 854 - AI Operating System starter kit for Claude Code, with onboarding, auditing, and level-up skills.
 - [second-brain-skills](https://github.com/coleam00/second-brain-skills) | ⭐ 781 - Claude Skills collection for second-brain style memory and knowledge workflows.
 - [claude-skills-llm-council](https://github.com/aiwithremy/claude-skills-llm-council) | ⭐ 753 - Claude Code skill that routes decisions through five AI advisors with peer review.
+- [autoprompt-skill](https://github.com/Spielewoy/autoprompt-skill) | ⭐ 731 - Coding-agent skill that coordinates parallel planning, implementation, testing, review, and repair workflows.
 - [second-brain-starter](https://github.com/coleam00/second-brain-starter) | ⭐ 629 - Starter skill for creating a personalized PRD for a proactive, persistent AI second brain.
 - [fable-mode](https://github.com/mrtooher/fable-mode) | ⭐ 552 - Claude skill for staged execution discipline, written plans, failable verification checks, delegation, and self-review on large tasks.
 - [Super Simple Software Factory](https://github.com/disler/super-simple-software-factory) | ⭐ 502 - Installable software-factory skill that uses Python to sequence bounded coding-agent phases, retries, acceptance checks, and SQLite event traces.
@@ -563,6 +571,7 @@ Plugin skill packs collect skills alongside Claude Code plugins, hooks, commands
 
 - [notfair-plugin](https://github.com/nowork-studio/notfair-plugin) | ⭐ 3.4k - Open-source plugin pack with SEO, GEO, Google Ads, Meta Ads, and marketing skills for AI agents.
 - [claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) | ⭐ 2.4k - 270+ Claude Code plugins with 739 agent skills.
+- [crucible](https://github.com/chaseai-yt/crucible) | ⭐ 1.2k - Claude Code plugin with recon, interrogation, Codex adversarial review, and optional cross-model build phases for hardening plans.
 
 ## Agent Skills vs MCP Servers
 
@@ -636,6 +645,10 @@ No. Star count is a popularity signal, not a safety guarantee. Review the skill�
 Check the skill structure, installation steps, scripts, hooks, dependencies, permissions, agent runtime, and repository activity. Test in a disposable project before granting access to important code or credentials.
 
 ## Changelog
+
+### August 23, 2026
+
+- Added 9 skills and related tools across industry, writing, thinking, browser, visual, UI, workflow, and plugin categories, bringing the directory to 406 listed items.
 
 ### August 20, 2026
 
