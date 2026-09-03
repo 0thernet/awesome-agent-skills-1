@@ -9,7 +9,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![ScriptByAI](https://img.shields.io/badge/curated%20by-ScriptByAI-0f172a)](https://www.scriptbyai.com/)
 
-A directory of 406 Agent Skills and related tools for Claude Code, Codex, OpenClaw, Hermes Agent, and other compatible AI agents.
+A directory of 417 Agent Skills and related tools for Claude Code, Codex, OpenClaw, Hermes Agent, and other compatible AI agents.
 
 Most entries come from popular public GitHub repositories and are grouped by developer workflow. Stars show public attention, not safety; review scripts, permissions, compatibility, and maintenance before installing any skill.
 
@@ -337,10 +337,12 @@ Visual projects create architecture diagrams, slides, SVGs, Excalidraw boards, a
 - [video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | ⭐ 2.2k - AI video skill for creating cinematic product videos in Remotion with shot recipes, motion previews, and a production template.
 - [lottie](https://github.com/diffusionstudio/lottie) | ⭐ 2.1k - Generate production-ready Lottie animations with Claude Code or Codex.
 - [codex-ppt-skill](https://github.com/ningzimu/codex-ppt-skill) | ⭐ 2.1k - Codex skill for creating HTML presentation decks and slide-style visual documents.
+- [mono-color-skill](https://github.com/yanliudesign/mono-color-skill) | ⭐ 2.1k - One-ink editorial image skill for posters, zines, portraits, packaging, and visual field notes.
 - [mcp_excalidraw](https://github.com/yctimlin/mcp_excalidraw) | ⭐ 2k - MCP server and Claude Code skill for Excalidraw — programmatic canvas toolkit to create, edit, and export diagrams via AI agents with real-time canvas sync.
 - [nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill) | ⭐ 1.6k - Claude Code / Cursor skill to recommend from 6000+ Nano Banana Pro image prompts.
 - [archify](https://github.com/tt-a1i/archify) | ⭐ 1.2k - Architecture diagram skill with dark and light themes plus PNG, JPEG, WebP, and SVG export.
 - [ppt-image-first](https://github.com/NyxTides/ppt-image-first) | ⭐ 1.2k - Image-first PowerPoint skill for Codex, Claude Code, and OpenCode CLI.
+- [PPT-Design-Skill](https://github.com/sunchaokun/PPT-Design-Skill) | ⭐ 1.2k - PowerPoint design skill for OpenCode, Claude Code, and Codex, with 40,000+ styles, Build Mode layout control, AI image generation, and editable PPTX output.
 - [female-portrait-director](https://github.com/liyue-aigc/female-portrait-director) | ⭐ 1.1k - Modular Codex skill for directing and expanding detailed AI female portrait prompts.
 - [logo-generator-skill](https://github.com/op7418/logo-generator-skill) | ⭐ 1.1k - Professional SVG logo generator with high-end showcase presentations.
 - [gc-minimal-zine-poster](https://github.com/LiamGvchi/gc-minimal-zine-poster) | ⭐ 1k - Codex skill for producing quiet, minimal zine-style editorial poster prompts and images.
@@ -523,6 +525,7 @@ Workflow projects coordinate agents, route work, preserve context, and connect c
 - [Acontext](https://github.com/memodb-io/Acontext) | ⭐ 3.6k - Agent memory layer for preserving reusable context, observations, and learned workflow knowledge.
 - [Claude-to-IM-skill](https://github.com/op7418/Claude-to-IM-skill) | ⭐ 2.7k - Bridge Claude Code / Codex to IM platforms — chat with AI coding agents from Telegram, Discord, or Feishu/Lark.
 - [Youtube-clipper-skill](https://github.com/op7418/Youtube-clipper-skill) | ⭐ 1.9k - Download videos, generate semantic chapters, clip segments, translate subtitles to bilingual format, and burn subtitles into videos.
+- [claudex-loop](https://github.com/chaseai-yt/claudex-loop) | ⭐ 1.6k - Claude Code workflow for hardening plans through reconnaissance, interrogation, adversarial Codex review, and cross-model build and inspection.
 - [omnigent](https://github.com/omnigent-ai/omnigent) | ⭐ 1.5k - Common control layer for Claude Code, Codex, Pi, and custom agents, with harness swapping, policies, sandboxing, and real-time collaboration.
 - [comet](https://github.com/rpamis/comet) | ⭐ 1.5k - Agent workflow tool for phase-gated planning, execution, checks, and repeatable coding sessions.
 - [skill-codex](https://github.com/skills-directory/skill-codex) | ⭐ 1.3k - A claude code skill to delegate prompts to codex.
@@ -653,6 +656,10 @@ No. Star count is a popularity signal, not a safety guarantee. Review the skill�
 Check the skill structure, installation steps, scripts, hooks, dependencies, permissions, agent runtime, and repository activity. Test in a disposable project before granting access to important code or credentials.
 
 ## Changelog
+
+### September 3, 2026
+
+- Added 3 skills and related tools across visual and workflow categories, bringing the directory to 417 listed items.
 
 ### August 30, 2026
 
