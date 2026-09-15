@@ -9,7 +9,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![ScriptByAI](https://img.shields.io/badge/curated%20by-ScriptByAI-0f172a)](https://www.scriptbyai.com/)
 
-A directory of 423 Agent Skills and related tools for Claude Code, Codex, OpenClaw, Hermes Agent, and other compatible AI agents.
+A directory of 426 Agent Skills and related tools for Claude Code, Codex, OpenClaw, Hermes Agent, and other compatible AI agents.
 
 Most entries come from popular public GitHub repositories and are grouped by developer workflow. Stars show public attention, not safety; review scripts, permissions, compatibility, and maintenance before installing any skill.
 
@@ -348,6 +348,7 @@ Visual projects create architecture diagrams, slides, SVGs, Excalidraw boards, a
 - [PPT-Design-Skill](https://github.com/sunchaokun/PPT-Design-Skill) | ⭐ 1.2k - PowerPoint design skill for OpenCode, Claude Code, and Codex, with 40,000+ styles, Build Mode layout control, AI image generation, and editable PPTX output.
 - [female-portrait-director](https://github.com/liyue-aigc/female-portrait-director) | ⭐ 1.1k - Modular Codex skill for directing and expanding detailed AI female portrait prompts.
 - [logo-generator-skill](https://github.com/op7418/logo-generator-skill) | ⭐ 1.1k - Professional SVG logo generator with high-end showcase presentations.
+- [dream-loop](https://github.com/achimala/dream-loop) | ⭐ 1.1k - Agent skill for building games, apps, and scenes through image-generated targets, screenshot comparison, and iterative refinement.
 - [gc-minimal-zine-poster](https://github.com/LiamGvchi/gc-minimal-zine-poster) | ⭐ 1k - Codex skill for producing quiet, minimal zine-style editorial poster prompts and images.
 - [lanshu-create-ai-presenter-video](https://github.com/cclank/lanshu-create-ai-presenter-video) | ⭐ 977 - Provider-neutral Codex skill for producing verified AI presenter videos from a script and an authorized presenter image.
 - [ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) | ⭐ 919 - Local FFmpeg agent skill with 40 tools for video editing, audio cleanup, captions, overlays, rendering, and delivery checks.
@@ -409,6 +410,7 @@ Marketing projects deal with ads, campaign analysis, marketing review, and conte
 - [affiliate-skills](https://github.com/Affitor/affiliate-skills) | ⭐ 495 - Affiliate marketing skill pack for research, content planning, infographics, landing pages, deployment, and social intelligence.
 - [newsjack](https://github.com/elvisun/newsjack) | ⭐ 495 - Open-source PR skills for turning news moments into press angles, pitches, and campaign assets.
 - [marketing-os](https://github.com/Yuzzyuk/marketing-os) | ⭐ 430 - Marketing skill with 14 modules for audits, GEO, copy, hooks, paid ads, email, social media, launches, positioning, pricing, and analytics.
+- [linkedin-agent-skill](https://github.com/Jakeschincariol/linkedin-agent-skill) | ⭐ 211 - Eleven Claude skills for LinkedIn posts, comments, replies, profile reviews, weekly planning, and local draft humanization.
 - [openclaw-marketing-skills](https://github.com/davidpc007/openclaw-marketing-skills) | ⭐ 156 - OpenClaw marketing skills for CRO, copywriting, SEO, paid ads, growth, and GTM.
 - [Proven-Viral-Content-System](https://github.com/swaroop2004/Proven-Viral-Content-System) | ⭐ 73 - Skills for researching, brainstorming, and generating viral video content for Instagram, YouTube, X, and TikTok.
 
@@ -432,6 +434,7 @@ Industry projects package domain rules for professional fields where generic cod
 - [biomate-bioconductor-kb](https://github.com/bioMate-AI/biomate-bioconductor-kb) | ⭐ 533 - BioMate knowledge-base skills for Bioconductor packages, with vignette-grounded workflows and package-specific recipes.
 - [startup-skill](https://github.com/ferdinandobons/startup-skill) | ⭐ 496 - Startup validation skill set for market research, competitive intelligence, pricing analysis, and planning.
 - [awp-skill](https://github.com/awp-core/awp-skill) | ⭐ 247 - Agent skill for querying, staking, governing, and monitoring the AWP protocol on EVM chains.
+- [cyber-resume-reviewer-skill](https://github.com/mubix/cyber-resume-reviewer-skill) | ⭐ 171 - Evidence-led resume reviews and job-description tailoring for IT and cybersecurity roles, with exact edits, diagnostic scoring, Markdown reports, and styled PDFs.
 
 ## DevOps and CI Skills
 
@@ -662,6 +665,10 @@ No. Star count is a popularity signal, not a safety guarantee. Review the skill�
 Check the skill structure, installation steps, scripts, hooks, dependencies, permissions, agent runtime, and repository activity. Test in a disposable project before granting access to important code or credentials.
 
 ## Changelog
+
+### September 15, 2026
+
+- Added 3 skills and related tools across visual, marketing, and industry categories, bringing the directory to 426 listed items.
 
 ### September 3, 2026
 
